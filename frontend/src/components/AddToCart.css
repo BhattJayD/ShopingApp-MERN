@@ -1,0 +1,17 @@
+.carts{
+    border: 1px solid ;
+    width: 80vw;
+    margin-top: 30px;
+    border-radius: 10px;
+    display: flex;
+    height: 65vh;
+    overflow: auto;
+    scroll-behavior: smooth;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 50px 20px 50px;
+    position: relative;
+    -webkit-box-shadow: 5px 5px 15px 5px #577DFF; 
+    box-shadow: 5px 5px 15px 5px #577DFF;
+}
